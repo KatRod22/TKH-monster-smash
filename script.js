@@ -90,5 +90,5 @@ function playGame() {
   }
 }
 
-//call playGame to start game
+//call playGame to start game.
 playGame();
